@@ -1,0 +1,48 @@
+body {
+  font-family: "Raleway", sans-serif;
+  background-color: #e6fffb;
+}
+
+/* Navigation bar */
+a {
+  color: #474f4e;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.hero-content {
+  margin-top: 4rem;
+}
+.hero-content h1 {
+  font-weight: 900;
+  font-size: 3.5rem;
+}
+
+.hero-content h3 {
+  font-weight: 700;
+}
+
+.social-icons-hero div {
+  border: 1px solid #474f4e;
+  border-radius: 50%;
+}
+
+/* About */
+.about .section-heading {
+  font-weight: 700;
+  font-size: 3.5rem;
+}
+
+.btn-main {
+  background-color: #8ab128;
+  color: #474f4e;
+  font-size: 1.3rem;
+}
